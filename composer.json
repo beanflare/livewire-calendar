@@ -1,5 +1,5 @@
 {
-    "name": "wmandai/livewire-calendar",
+    "name": "beanflare/livewire-calendar",
     "description": "Laravel Livewire calendar component",
     "keywords": [
         "asantibanez",
@@ -37,7 +37,6 @@
     "scripts": {
         "test": "vendor/bin/phpunit",
         "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
-
     },
     "config": {
         "sort-packages": true
